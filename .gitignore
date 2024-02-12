@@ -1,0 +1,12 @@
+# Игнорирование папки node_modules
+node_modules/
+
+# Игнорирование временных файлов
+.svelte-kit/
+__sapper__/
+build/
+.cache/
+
+# Игнорирование файлов сборки и настроек
+dist/
+.env
